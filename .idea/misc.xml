@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/daily-notes/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Android/daily-notes/app/src/main/res/layout/item_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/daily-notes/app/src/main/res/layout/activity_add_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/daily-notes/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android/daily-notes/app/src/main/res/layout/activity_note.xml" value="0.5" />
+        <entry key="..\:/Android/daily-notes/app/src/main/res/layout/item_note.xml" value="0.75" />
       </map>
     </option>
   </component>
